@@ -10,11 +10,11 @@ Nerd, Security Engineer, Computer Scientist, Privacy Enthusiast, Hacker. Welcome
 
 <kbd><img src="https://repository-images.githubusercontent.com/695463375/6af79c34-3476-4ec3-b2f3-b74285e14a2d" width="640"></kbd>
 
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/bithappens.vscode-plain-sidebar?style=flat&label=installs)](https://marketplace.visualstudio.com/items?style=flat&itemName=bithappens.vscode-plain-sidebar)
-[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/bithappens.vscode-plain-sidebar?style=flat)](https://marketplace.visualstudio.com/items?itemName=bithappens.vscode-plain-sidebar&ssr=false#review-details)
-[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/bithappens/vscode-plain-sidebar?style=flat&label=Open%20VSX%20downloads)](https://open-vsx.org/extension/bithappens/vscode-plain-sidebar)
-[![Open VSX Rating](https://img.shields.io/open-vsx/rating/bithappens/vscode-plain-sidebar?style=flat&label=Open%20VSX%20rating)](https://open-vsx.org/extension/bithappens/vscode-plain-sidebar/reviews)
-[![GitHub Repo stars](https://img.shields.io/github/stars/bithappens/vscode-plain-sidebar?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fbithappens%2Fvscode-plain-sidebar%2Fstargazers)](https://github.com/bithappens/vscode-plain-sidebar)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/bithappens.vscode-plain-sidebar?label=Marketplace%20installs)](https://marketplace.visualstudio.com/items?itemName=bithappens.vscode-plain-sidebar)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/bithappens.vscode-plain-sidebar?label=Marketplace%20rating)](https://marketplace.visualstudio.com/items?itemName=bithappens.vscode-plain-sidebar&ssr=false#review-details)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/bithappens/vscode-plain-sidebar?label=Open%20VSX%20downloads)](https://open-vsx.org/extension/bithappens/vscode-plain-sidebar)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/bithappens/vscode-plain-sidebar?label=Open%20VSX%20rating)](https://open-vsx.org/extension/bithappens/vscode-plain-sidebar/reviews)
+[![GitHub Repo stars](https://img.shields.io/github/stars/bithappens/vscode-plain-sidebar?style=flat&label=GitHub%20stars&link=https%3A%2F%2Fgithub.com%2Fbithappens%2Fvscode-plain-sidebar%2Fstargazers)](https://github.com/bithappens/vscode-plain-sidebar)
 
 ---
 
