@@ -2,6 +2,10 @@
 
 Nerd, Security Engineer, Computer Scientist, Privacy Enthusiast, Hacker. Welcome to my space for frequent, low-pressure, highly enjoyable coding on creative and curious projects. Feel free to look around and contribute!
 
+![GitHub User's stars](https://img.shields.io/github/stars/bithappens?style=flat&label=GitHub%20stars)
+[![GitHub followers](https://img.shields.io/github/followers/bithappens?style=flat&label=GitHub%20followers)](https://github.com/bithappens?tab=followers)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/bithappens?style=flat&label=GitHub%20sponsors)](https://github.com/sponsors/bithappens)
+
 ## My Project History
 
 ### [vscode-plain-sidebar](https://github.com/bithappens/vscode-plain-sidebar)
@@ -24,7 +28,7 @@ Nerd, Security Engineer, Computer Scientist, Privacy Enthusiast, Hacker. Welcome
 
 <kbd><img src="https://repository-images.githubusercontent.com/549750668/0923e0ed-0a6a-487e-8f2a-c19db81a50d2" width="640"></kbd>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/bithappens/copy-link-bookmarklet?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fbithappens%2Fcopy-link-bookmarklet%2Fstargazers)](https://github.com/bithappens/copy-link-bookmarklet)
+[![GitHub Repo stars](https://img.shields.io/github/stars/bithappens/copy-link-bookmarklet?style=flat&label=GitHub%20stars&link=https%3A%2F%2Fgithub.com%2Fbithappens%2Fcopy-link-bookmarklet%2Fstargazers)](https://github.com/bithappens/copy-link-bookmarklet)
 
 ---
 
@@ -32,7 +36,7 @@ Nerd, Security Engineer, Computer Scientist, Privacy Enthusiast, Hacker. Welcome
 
 *A template for writing your Bachelor, Master or PhD thesis.*
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/thesis-toolbox/template?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fthesis-toolbox%2Ftemplate%2Fstargazers)](https://github.com/thesis-toolbox/template)
+[![GitHub Repo stars](https://img.shields.io/github/stars/thesis-toolbox/template?style=flat&label=GitHub%20stars&link=https%3A%2F%2Fgithub.com%2Fthesis-toolbox%2Ftemplate%2Fstargazers)](https://github.com/thesis-toolbox/template)
 
 ---
 
