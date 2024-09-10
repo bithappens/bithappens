@@ -40,5 +40,16 @@ Nerd, Security Engineer, Computer Scientist, Privacy Enthusiast, Hacker. Welcome
 
 ---
 
+### [printable-graph-paper](https://github.com/bithappens/printable-graph-paper)
+
+*Minimal PDFs with clean backgrounds to digitally annotate and print seamlessly.*
+
+<kbd><img src="https://repository-images.githubusercontent.com/33448826/78400ba5-d4f8-412e-983c-1aaca77b4b61" width="640"></kbd>
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/bithappens/vscode-plain-sidebar?style=flat&label=GitHub%20stars&link=https%3A%2F%2Fgithub.com%2Fbithappens%2Fprintable-graph-paper%2Fstargazers)](https://github.com/bithappens/printable-graph-paper)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bithappens/printable-graph-paper/total?style=flat&label=GitHub%20downloads)
+
+---
+
 > [!NOTE]
 > These are all my public projects. More is hopefully coming soon.
