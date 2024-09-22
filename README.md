@@ -5,6 +5,7 @@ Nerd, Security Engineer, Computer Scientist, Privacy Enthusiast, Hacker. Welcome
 [![GitHub User's stars](https://img.shields.io/github/stars/bithappens?style=flat&label=GitHub%20stars)](https://gitstar-ranking.com/bithappens)
 [![GitHub followers](https://img.shields.io/github/followers/bithappens?style=flat&label=GitHub%20followers)](https://github.com/bithappens?tab=followers)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/bithappens?style=flat&label=GitHub%20sponsors)](https://github.com/sponsors/bithappens)
+[![Liberapay patrons](https://img.shields.io/liberapay/patrons/bithappens?style=flat&label=Liberapay%20patrons)](https://liberapay.com/bithappens)
 
 ## My Project History
 
